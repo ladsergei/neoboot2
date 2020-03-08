@@ -1,5 +1,3 @@
-Chcesz kupić tuner ? Polecam sklep : http://www.expert-tvsat.com/
-
 
 Pierwsza instalacja neoboot-a
 
